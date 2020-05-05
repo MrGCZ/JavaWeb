@@ -6,6 +6,9 @@
 <title>尚硅谷会员登录页面</title>
 	<%--静态包含--%>
 	<%@include file="/pages/comm/head.jsp"%>
+
+
+
 </head>
 <body>
 		<div id="login_header">
@@ -41,7 +44,7 @@
 								<form action="userServlet" method="post"/>
 									<input type="hidden" name="action" value="login">
 									<label>用户名称：</label>
-									<input class="itxt" type="text" placeholder="请输入用户名" autocomplete="off" tabindex="1" name="username"
+									<input id="username" class="itxt" type="text" placeholder="请输入用户名" autocomplete="off" tabindex="1" name="username"
 										   value = "${requestScope.username}"/>
 
 <%--

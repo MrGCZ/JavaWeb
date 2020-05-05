@@ -4,6 +4,7 @@ import com.atguigu.pojo.User;
 import com.atguigu.service.UserService;
 import com.atguigu.service.impl.UserServiceImpl;
 import com.atguigu.utils.WebUtils;
+import com.google.gson.Gson;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -12,6 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.util.HashMap;
 
 import static com.google.code.kaptcha.Constants.KAPTCHA_SESSION_KEY;
 
@@ -53,7 +55,28 @@ public class UserServlet extends HttpServlet {
         doPost(req, resp);
     }
 
-    protected void login(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
+    protected void ajaxExistsUserName(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        String username = req.getParameter("username");
+        boolean existsUsername = userService.existsUsername(username);
+
+        HashMap<String, Object> resultMap = new HashMap<>();
+
+        resultMap.put("existsUsername",existsUsername);
+
+        Gson gson = new Gson();
+
+
+        String s = gson.toJson(resultMap);
+
+        resp.getWriter().write(s);
+
+
+    }
+
+
+
+        protected void login(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         //  1、获取请求的参数
         String username = req.getParameter("username");
         String password = req.getParameter("password");

@@ -2,11 +2,34 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="book1:Web exploded" />
+      <artifact name="struts2t:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c939cbef-151a-40de-9d45-bd0377288f99" name="Default Changelist" comment="" />
+    <list default="true" id="c939cbef-151a-40de-9d45-bd0377288f99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/struts2t_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book1/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book1/book1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/book1/book1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book1/src/com/atguigu/web/BaseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book1/src/com/atguigu/web/BaseServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book1/src/com/atguigu/web/CartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book1/src/com/atguigu/web/CartServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book1/src/com/atguigu/web/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book1/src/com/atguigu/web/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book1/web/pages/client/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book1/web/pages/client/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book1/web/pages/user/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book1/web/pages/user/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book1/web/pages/user/regist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book1/web/pages/user/regist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/WEB-INF/classes/com/atguigu/web/BaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/WEB-INF/classes/com/atguigu/web/BaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/WEB-INF/classes/com/atguigu/web/CartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/WEB-INF/classes/com/atguigu/web/CartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/WEB-INF/classes/com/atguigu/web/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/WEB-INF/classes/com/atguigu/web/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/pages/client/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/pages/client/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/pages/user/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/pages/user/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/pages/user/regist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/book1_Web_exploded/pages/user/regist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/book1/com/atguigu/web/BaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/book1/com/atguigu/web/BaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/book1/com/atguigu/web/CartServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/book1/com/atguigu/web/CartServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/book1/com/atguigu/web/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/book1/com/atguigu/web/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/xml/com/gcz/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/xml/com/gcz/Dom4jTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,94 +46,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/OrderServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/UserServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="803">
-              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/filter/TransactionFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/utils/JdbcUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#580#592#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/BaseServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/RegistServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/dao/impl/BaseDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book1/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="115" column="17" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/book1/web/pages/error/error404.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
@@ -119,11 +54,75 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/book1/web/pages/error/error500.jsp">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book1/web/pages/manager/book_edit.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book1/web/pages/manager/book_manager.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="1273">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book1/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book1/src/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book1/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1672">
+              <caret line="88" column="27" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book1/web/pages/cart/cart.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1653">
+              <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book1/web/pages/cart/checkout.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book1/web/pages/client/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -133,12 +132,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Arquillian JUnit Test Class" />
-        <option value="HTML File" />
         <option value="JUnit4 Test Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -154,16 +153,12 @@
       <replace>.jsp</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/book1/web/pages/user/regist_success.jsp" />
-        <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/RegistServlet.java" />
-        <option value="$PROJECT_DIR$/book1/src/com/atguigu/pojo/User.java" />
-        <option value="$PROJECT_DIR$/book1/web/pages/user/login.jsp" />
-        <option value="$PROJECT_DIR$/book1/src/com/atguigu/pojo/Book.java" />
-        <option value="$PROJECT_DIR$/book1/src/com/atguigu/pojo/Page.java" />
         <option value="$PROJECT_DIR$/book1/web/pages/manager/manager.jsp" />
         <option value="$PROJECT_DIR$/book1/web/pages/comm/head.jsp" />
         <option value="$PROJECT_DIR$/book1/web/pages/manager/book_manager.jsp" />
@@ -180,13 +175,9 @@
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/test/BookDaoTest.java" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/dao/impl/BookDaoImpl.java" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/test/BookServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/UserServlet.java" />
-        <option value="$PROJECT_DIR$/book1/web/pages/user/regist.jsp" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/pojo/CartItem.java" />
         <option value="$PROJECT_DIR$/book1/web/pages/comm/login_sucess_menu.jsp" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/pojo/Cart.java" />
-        <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/CartServlet.java" />
-        <option value="$PROJECT_DIR$/book1/web/pages/client/index.jsp" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/pojo/Order.java" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/pojo/OrderItem.java" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/dao/OrderDao.java" />
@@ -204,10 +195,21 @@
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/OrderServlet.java" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/utils/JdbcUtils.java" />
         <option value="$PROJECT_DIR$/book1/src/com/atguigu/filter/TransactionFilter.java" />
-        <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/BaseServlet.java" />
         <option value="$PROJECT_DIR$/book1/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/book1/web/pages/error/error404.jsp" />
         <option value="$PROJECT_DIR$/book1/web/pages/error/error500.jsp" />
+        <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/UserServlet.java" />
+        <option value="$PROJECT_DIR$/book1/web/pages/user/login.jsp" />
+        <option value="$PROJECT_DIR$/book1/web/pages/user/regist.jsp" />
+        <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/book1/src/com/atguigu/web/CartServlet.java" />
+        <option value="$PROJECT_DIR$/book1/web/pages/client/index.jsp" />
+        <option value="$PROJECT_DIR$/struts2t/web/index.jsp" />
+        <option value="$PROJECT_DIR$/struts2t/web/WEB-INF/pages/input.jsp" />
+        <option value="$PROJECT_DIR$/struts2t/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/struts2t/web/input.jsp" />
+        <option value="$PROJECT_DIR$/struts2t/web/123.html" />
+        <option value="$PROJECT_DIR$/struts2t/src/com/gcz/FilterDispatcher.java" />
       </list>
     </option>
   </component>
@@ -218,17 +220,20 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-4" />
-    <option name="width" value="1308" />
-    <option name="height" value="1407" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="355" />
+    <option name="y" value="25" />
+    <option name="width" value="1543" />
+    <option name="height" value="1402" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,195 +243,13 @@
             </path>
             <path>
               <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="cart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="comm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="error" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="book1" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -436,6 +259,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -443,13 +267,13 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/book1/web/pages/error" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/struts2t/web" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27011493" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -459,11 +283,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\JavaWeb\book1\web\pages\error" />
+      <recent name="D:\workspace\JavaWeb\struts2t\web" />
       <recent name="D:\workspace\JavaWeb\book1\web\WEB-INF\lib" />
+      <recent name="D:\workspace\JavaWeb\book1\web\pages\error" />
       <recent name="D:\workspace\JavaWeb\book1\web\pages\comm" />
       <recent name="D:\workspace\JavaWeb\book1\web\pages\client" />
-      <recent name="D:\workspace\JavaWeb\book1\src\com\atguigu\web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -478,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.book1">
+  <component name="RunManager" selected="Tomcat Server.struts2t">
     <configuration name="BookDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="book1" />
       <extension name="coverage">
@@ -920,17 +744,93 @@
         </option>
       </method>
     </configuration>
+    <configuration name="struts2t" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/struts2t/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="struts2t:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/struts2t" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_50_JavaWeb_5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65147" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="struts2t:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.BookDaoTest.queryForPageTotalCount" />
       <item itemvalue="JUnit.BookDaoTest" />
       <item itemvalue="JUnit.BookDaoTest.queryForPageItems" />
       <item itemvalue="JUnit.BookServiceImplTest.page" />
+      <item itemvalue="JUnit.OrderItemDaoImplTest.saveOrderItem" />
       <item itemvalue="Tomcat Server.Tomcatweb" />
       <item itemvalue="Tomcat Server.servlettest" />
       <item itemvalue="Tomcat Server.book" />
       <item itemvalue="Tomcat Server.jsp" />
       <item itemvalue="Tomcat Server.book1" />
-      <item itemvalue="JUnit.OrderItemDaoImplTest.saveOrderItem" />
+      <item itemvalue="Tomcat Server.struts2t" />
     </list>
     <recent_temporary>
       <list>
@@ -968,6 +868,23 @@
       <workItem from="1585454391110" duration="346000" />
       <workItem from="1585454753495" duration="16679000" />
       <workItem from="1585533201873" duration="24665000" />
+      <workItem from="1585813382910" duration="3360000" />
+      <workItem from="1585880128135" duration="10965000" />
+      <workItem from="1585986748431" duration="218000" />
+      <workItem from="1585990207258" duration="669000" />
+      <workItem from="1586167153318" duration="13000" />
+      <workItem from="1586421627002" duration="1626000" />
+      <workItem from="1586744153442" duration="1885000" />
+      <workItem from="1586828769094" duration="577000" />
+      <workItem from="1586917082257" duration="1214000" />
+      <workItem from="1587266902425" duration="601000" />
+      <workItem from="1587434404064" duration="654000" />
+      <workItem from="1587522367738" duration="649000" />
+      <workItem from="1587608263843" duration="1204000" />
+      <workItem from="1587697740957" duration="1812000" />
+      <workItem from="1587952941722" duration="599000" />
+      <workItem from="1588147095318" duration="1277000" />
+      <workItem from="1588153422621" duration="604000" />
     </task>
     <servers />
   </component>
@@ -1004,24 +921,24 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148503000" />
+    <option name="totallyTimeSpent" value="176430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1308" height="1407" extended-state="0" />
+    <frame x="355" y="25" width="1543" height="1402" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.684153" visible="true" weight="0.22836539" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.66961414" visible="true" weight="0.24342549" />
       <window_info id="Structure" order="1" sideWeight="0.500664" side_tool="true" weight="0.2179156" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.315847" side_tool="true" visible="true" weight="0.22836539" />
+      <window_info id="Web" order="7" sideWeight="0.33038586" side_tool="true" visible="true" weight="0.24342549" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32997057" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.268" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.47100875" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26782006" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47093424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1032,7 +949,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3296" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3272" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32698962" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24978466" />
@@ -1082,121 +999,6 @@
     <SUITE FILE_PATH="coverage/JavaWeb$book1.ic" NAME="book1 Coverage Results" MODIFIED="1585454718932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/dao/BookDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/test/BookServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/test/UserDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/test/UserServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/service/impl/BookServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="82" column="48" selection-start-line="82" selection-start-column="48" selection-end-line="82" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#903#909#0" expanded="true" />
-            <element signature="e#1588#1594#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/comm/page_nav.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="50" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsp/src/com/gcz/SearchStudenServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/book1/web/WEB-INF/lib/kaptcha-2.3.2.jar!/com/google/code/kaptcha/Constants.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/user/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/user/regist.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#input#5;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/comm/head.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/comm/login_sucess_menu.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/user/login_success.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/ClientBookServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1378,16 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/CartServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/BookServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1409,27 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="296" selection-start-line="296" selection-end-line="296" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/client/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/cart/cart.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="87" column="4" lean-forward="true" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/cart/checkout.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1487,10 +1258,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/dao/impl/BaseDao.java">
+    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/OrderServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="513">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/filter/TransactionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1499,29 +1280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/utils/JdbcUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="266">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#580#592#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/OrderServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/BaseServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1537,28 +1297,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/UserServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="803">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="931">
+          <caret line="64" column="37" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/dao/impl/BaseDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="115" column="17" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/filter/TransactionFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="342">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/pages/error/error500.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/pages/user/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/pages/user/regist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/web/CartServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2356">
+          <caret line="137" column="28" selection-start-line="137" selection-start-column="28" selection-end-line="137" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2t/struts2t.iml" />
+    <entry file="file://$PROJECT_DIR$/struts2t/web/WEB-INF/pages/input.jsp" />
+    <entry file="file://$PROJECT_DIR$/book1/book1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2t/web/123.html" />
+    <entry file="file://$PROJECT_DIR$/struts2t/web/input.jsp" />
+    <entry file="file://$PROJECT_DIR$/struts2t/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/struts2t/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/struts2t/src/com/gcz/FilterDispatcher.java" />
     <entry file="file://$PROJECT_DIR$/book1/web/pages/error/error404.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1566,10 +1370,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book1/web/pages/error/error500.jsp">
+    <entry file="file://$PROJECT_DIR$/book1/web/pages/manager/book_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/pages/manager/book_manager.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="1273">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/src/com/atguigu/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="88" column="27" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/pages/cart/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/pages/cart/checkout.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/web/pages/client/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book1/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1626,11 +1478,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>book1</last-edited>
+          <last-edited>book</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.27011493" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

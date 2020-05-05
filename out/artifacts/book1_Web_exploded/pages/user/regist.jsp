@@ -8,6 +8,28 @@
 		<%@include file="/pages/comm/head.jsp"%>
 
 		<script type="text/javascript">
+
+
+			$(function () {
+				$("#username").blur(function () {
+					var username = this.value;
+
+					$.getJSON("http://localhost:8080/book1/userServlet",
+							"action=ajaxExistsUserName&username="+username,
+							function (data) {
+								if(data.existsUsername){
+									$("span.errorMsg").text("用户名已存在");
+								}else{
+									$("span.errorMsg").text("用户名可用");
+								}
+							}
+					)
+				})
+			})
+
+		</script>
+
+		<script type="text/javascript">
 			// 页面加载完成之后
 			$(function () {
 				
